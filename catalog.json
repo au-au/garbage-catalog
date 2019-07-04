@@ -3335,13 +3335,6 @@
                     "shortcut":"jjz"
                 },
                 {
-                    "id":"182",
-                    "name":"猫罐头",
-                    "category":"1",
-                    "alias":"",
-                    "shortcut":"mgt"
-                },
-                {
                     "id":"187",
                     "name":"牙膏壳",
                     "category":"1",
@@ -7824,6 +7817,13 @@
                     "shortcut":"spgt"
                 },
                 {
+                    "id":"182",
+                    "name":"猫罐头",
+                    "category":"2",
+                    "alias":"",
+                    "shortcut":"mgt"
+                },
+                {
                     "id":"173",
                     "name":"旧书包",
                     "category":"2",
@@ -9733,13 +9733,6 @@
                     "category":"2",
                     "alias":"",
                     "shortcut":"js"
-                },
-                {
-                    "id":"1091",
-                    "name":"食品罐头",
-                    "category":"2",
-                    "alias":"",
-                    "shortcut":"shpgt"
                 },
                 {
                     "id":"1092",
