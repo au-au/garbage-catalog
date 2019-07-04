@@ -519,13 +519,6 @@
                     "shortcut":"cwfb"
                 },
                 {
-                    "id":"332",
-                    "name":"猫屎",
-                    "category":"0",
-                    "alias":"",
-                    "shortcut":"ms"
-                },
-                {
                     "id":"333",
                     "name":"芝麻",
                     "category":"0",
@@ -2974,6 +2967,20 @@
                     "category":"0",
                     "alias":"",
                     "shortcut":"hlj"
+                },
+                {
+                    "id":"12",
+                    "name":"树枝",
+                    "category":"0",
+                    "alias":"",
+                    "shortcut":"sz"
+                },
+                {
+                    "id":"571",
+                    "name":"桃核",
+                    "category":"0",
+                    "alias":"",
+                    "shortcut":"th"
                 }
             ]
         },
@@ -3018,13 +3025,6 @@
                     "category":"1",
                     "alias":"",
                     "shortcut":"ycxkz"
-                },
-                {
-                    "id":"12",
-                    "name":"树枝",
-                    "category":"1",
-                    "alias":"",
-                    "shortcut":"sz"
                 },
                 {
                     "id":"13",
@@ -4355,13 +4355,6 @@
                     "category":"1",
                     "alias":"",
                     "shortcut":"dyyerfbdnbsh"
-                },
-                {
-                    "id":"571",
-                    "name":"桃核",
-                    "category":"1",
-                    "alias":"",
-                    "shortcut":"th"
                 },
                 {
                     "id":"573",
@@ -7428,6 +7421,13 @@
                     "category":"1",
                     "alias":"",
                     "shortcut":"shpslh"
+                },
+                {
+                    "id":"332",
+                    "name":"猫屎",
+                    "category":"1",
+                    "alias":"",
+                    "shortcut":"ms"
                 }
             ]
         },
