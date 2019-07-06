@@ -3986,6 +3986,13 @@
                     "shortcut":"ncslb"
                 },
                 {
+                    "id":"1060",
+                    "name":"奶茶塑料盖",
+                    "category":"1",
+                    "alias":"",
+                    "shortcut":"nchslg"
+                },
+                {
                     "id":"410",
                     "name":"头屑",
                     "category":"1",
@@ -9670,13 +9677,6 @@
                     "category":"2",
                     "alias":"",
                     "shortcut":"shyj"
-                },
-                {
-                    "id":"1060",
-                    "name":"奶茶塑料盖",
-                    "category":"2",
-                    "alias":"",
-                    "shortcut":"nchslg"
                 },
                 {
                     "id":"1061",
