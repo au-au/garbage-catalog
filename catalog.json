@@ -1373,13 +1373,6 @@
                     "shortcut":"xgz"
                 },
                 {
-                    "id":"768",
-                    "name":"鸡屎",
-                    "category":"0",
-                    "alias":"",
-                    "shortcut":"jsh"
-                },
-                {
                     "id":"770",
                     "name":"盒饭",
                     "category":"0",
@@ -5372,13 +5365,6 @@
                     "shortcut":"ng"
                 },
                 {
-                    "id":"943",
-                    "name":"啤酒瓶盖",
-                    "category":"1",
-                    "alias":"",
-                    "shortcut":"pjpg"
-                },
-                {
                     "id":"944",
                     "name":"糖果皮",
                     "category":"1",
@@ -7421,13 +7407,6 @@
                     "category":"1",
                     "alias":"",
                     "shortcut":"shpslh"
-                },
-                {
-                    "id":"332",
-                    "name":"猫屎",
-                    "category":"1",
-                    "alias":"",
-                    "shortcut":"ms"
                 }
             ]
         },
@@ -7703,6 +7682,13 @@
                     "category":"2",
                     "alias":"",
                     "shortcut":"bcd"
+                },
+                {
+                    "id":"943",
+                    "name":"啤酒瓶盖",
+                    "category":"1",
+                    "alias":"",
+                    "shortcut":"pjpg"
                 },
                 {
                     "id":"63",
